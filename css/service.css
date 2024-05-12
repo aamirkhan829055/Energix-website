@@ -141,3 +141,11 @@
 .solar-pv:hover {
     color: #fff;
 }
+
+@media (max-width:768px) {
+    .automatedenergy h2 {
+        font-size: 44px;
+    }
+
+
+}
